@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #edf3c5 !important;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
+
+header {
+    background-color: #24b399 !important;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 60px;
+    background-color: #2d1c28;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}S
+
+.form-control {
+    width: 100%;
+    padding: 100px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.titulo{
+    color:#000000;
+    font-weight: bold;
+}
+
+.icono {
+    width: 40px; /* Ajusta el ancho de la imagen según sea necesario */
+    height: auto; /* Permite que la altura se ajuste automáticamente para mantener la proporción */
+    vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+}
+
+img{
+width: 400px;
+height: 400px;
+}
+.btn-primary {
+
+    background-color: #f2cc49;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #b7be5f;
+}
+
+.form-check-label {
+    font-weight: normal;
+}
+
+.carousel slide{
+    max-height: 200px;
+    max-width: 200px;
+}
